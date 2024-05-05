@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- My areas of work expertise can be easily classified under: Operator, Investor, Advisor and hands-on Engineer
-- 🔭 I’m currently working on ... AI - large and small models (local deployments), ML, Networking, Security, Edge Services - orchestration, management
+- :microphone: :newspaper: My areas of work expertise can be easily classified under:
+  - Operator
+  - Investor
+  - Advisor
+  - Engineer (Software, hands-on)
+- :telescope: I’m currently working on ... AI - large and small models (local deployments), ML, Networking, Security, Edge Services - orchestration, management
 
 <!--
 **shivarammysore/shivarammysore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+get icons cheatsheet from https://gist.github.com/rxaviers/7360908
 -->
