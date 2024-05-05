@@ -5,7 +5,13 @@
   - Investor
   - Advisor
   - Engineer (Software, hands-on)
-- :telescope: I’m currently working on ... AI - large and small models (local deployments), ML, Networking, Security, Edge Services - orchestration, management
+- :telescope: I’m currently working on ...
+  - AI: large and small models (local deployments),
+  - Machine Learning
+  - SaaS
+  - Networking
+  - Security
+  - Edge Services: orchestration, management
 
 <!--
 **shivarammysore/shivarammysore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
