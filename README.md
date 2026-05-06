@@ -6,7 +6,8 @@
   - Advisor
   - Engineer (Software, hands-on)
 - :telescope: I’m currently working on ...
-  - AI: large and small models (local deployments),
+  - AI: large and small models (local deployments)
+  - Semiconductors - E2E Design, Test, FPGA, Silicon, Post-Silicon, PCBA, Enclosure
   - Machine Learning
   - SaaS
   - Networking
